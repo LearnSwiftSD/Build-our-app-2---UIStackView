@@ -14,6 +14,7 @@
 		B3014DF41EE599940069F74D /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3014DF31EE599940069F74D /* Repository.swift */; };
 		B3014DF61EE59ADC0069F74D /* FakeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3014DF51EE59ADC0069F74D /* FakeData.swift */; };
 		B3014DFB1EE64AFF0069F74D /* RepositoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3014DFA1EE64AFF0069F74D /* RepositoryTableViewCell.swift */; };
+		B309084B1EF0C0B8000B3A23 /* RepositoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B309084A1EF0C0B8000B3A23 /* RepositoryDetailViewController.swift */; };
 		B349CAB81EF0146C003695CC /* Commit.swift in Sources */ = {isa = PBXBuildFile; fileRef = B349CAB71EF0146C003695CC /* Commit.swift */; };
 		B349CABA1EF0149C003695CC /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = B349CAB91EF0149C003695CC /* User.swift */; };
 		B349CABC1EF014D1003695CC /* Issue.swift in Sources */ = {isa = PBXBuildFile; fileRef = B349CABB1EF014D1003695CC /* Issue.swift */; };
@@ -30,6 +31,7 @@
 		B3014DF31EE599940069F74D /* Repository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		B3014DF51EE59ADC0069F74D /* FakeData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FakeData.swift; sourceTree = "<group>"; };
 		B3014DFA1EE64AFF0069F74D /* RepositoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoryTableViewCell.swift; sourceTree = "<group>"; };
+		B309084A1EF0C0B8000B3A23 /* RepositoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoryDetailViewController.swift; sourceTree = "<group>"; };
 		B349CAB61EF01311003695CC /* RepositoryDetailPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RepositoryDetailPlayground.playground; path = "Learn Swift SD/RepositoryDetailPlayground.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B349CAB71EF0146C003695CC /* Commit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Commit.swift; sourceTree = "<group>"; };
 		B349CAB91EF0149C003695CC /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				B3014DF01EE597E70069F74D /* RepositoryListViewController.swift */,
+				B309084A1EF0C0B8000B3A23 /* RepositoryDetailViewController.swift */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 				B3014DF41EE599940069F74D /* Repository.swift in Sources */,
 				B349CABA1EF0149C003695CC /* User.swift in Sources */,
 				B349CABC1EF014D1003695CC /* Issue.swift in Sources */,
+				B309084B1EF0C0B8000B3A23 /* RepositoryDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
