@@ -28,5 +28,6 @@ class RepositoryDetailViewController: UIViewController {
   }
 }
 
-let vc = RepositoryDetailViewController()
-PlaygroundPage.current.liveView = vc
+//let vc = RepositoryDetailViewController()
+//PlaygroundPage.current.liveView = vc
+
