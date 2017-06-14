@@ -30,7 +30,7 @@
 		B3014DF31EE599940069F74D /* Repository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		B3014DF51EE59ADC0069F74D /* FakeData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FakeData.swift; sourceTree = "<group>"; };
 		B3014DFA1EE64AFF0069F74D /* RepositoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepositoryTableViewCell.swift; sourceTree = "<group>"; };
-		B349CAB61EF01311003695CC /* RepositoryDetailPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RepositoryDetailPlayground.playground; path = "Learn Swift SD/RepositoryDetailPlayground.playground"; sourceTree = "<group>"; };
+		B349CAB61EF01311003695CC /* RepositoryDetailPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RepositoryDetailPlayground.playground; path = "Learn Swift SD/RepositoryDetailPlayground.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B349CAB71EF0146C003695CC /* Commit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Commit.swift; sourceTree = "<group>"; };
 		B349CAB91EF0149C003695CC /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		B349CABB1EF014D1003695CC /* Issue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Issue.swift; sourceTree = "<group>"; };
